@@ -1,0 +1,6 @@
+{
+  "name": "Haytem Media Platform",
+  "description": "Premium trading & lifestyle media ecosystem with interactive 3D brand studio, funded trader tools, and market mapping suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
